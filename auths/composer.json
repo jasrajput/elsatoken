@@ -1,0 +1,7 @@
+{
+    "require": {
+        "coinbase/coinbase-commerce": "^1.0",
+        "web3p/web3.php": "dev-master",
+        "web3p/ethereum-tx": "^0.4.3"
+    }
+}

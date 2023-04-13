@@ -1,0 +1,46 @@
+/*icons*/
+.social-float {
+  position: fixed;
+  right: 10px;
+  top: 30%;
+  z-index: 999999;
+  background: #110663;
+  border-radius: 50px;
+}
+
+.social-float ul {
+  list-style: none;
+  padding-left: 15;
+}
+
+dl,
+ol,
+ul {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.social-float ul li {
+  padding: 4px;
+  margin: 2px;
+}
+
+.text-telegram {
+  color: #2481cc;
+}
+
+.social-float ul li i {
+  font-size: 40px;
+}
+
+.text-twitter {
+  color: #1d9bf0;
+}
+
+.text-facebook {
+  color: #1a74e4;
+}
+
+.text-youtube {
+  color: #d22b25;
+}
